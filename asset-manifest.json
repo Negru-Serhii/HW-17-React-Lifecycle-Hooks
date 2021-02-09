@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HW-17-React-Lifecycle-Hooks/static/css/main.5f82fae8.chunk.css",
+    "main.js": "/HW-17-React-Lifecycle-Hooks/static/js/main.16c42939.chunk.js",
+    "main.js.map": "/HW-17-React-Lifecycle-Hooks/static/js/main.16c42939.chunk.js.map",
+    "runtime-main.js": "/HW-17-React-Lifecycle-Hooks/static/js/runtime-main.9b40a86b.js",
+    "runtime-main.js.map": "/HW-17-React-Lifecycle-Hooks/static/js/runtime-main.9b40a86b.js.map",
+    "static/js/2.939999e5.chunk.js": "/HW-17-React-Lifecycle-Hooks/static/js/2.939999e5.chunk.js",
+    "static/js/2.939999e5.chunk.js.map": "/HW-17-React-Lifecycle-Hooks/static/js/2.939999e5.chunk.js.map",
+    "static/js/3.df800d67.chunk.js": "/HW-17-React-Lifecycle-Hooks/static/js/3.df800d67.chunk.js",
+    "static/js/3.df800d67.chunk.js.map": "/HW-17-React-Lifecycle-Hooks/static/js/3.df800d67.chunk.js.map",
+    "index.html": "/HW-17-React-Lifecycle-Hooks/index.html",
+    "static/css/main.5f82fae8.chunk.css.map": "/HW-17-React-Lifecycle-Hooks/static/css/main.5f82fae8.chunk.css.map",
+    "static/js/2.939999e5.chunk.js.LICENSE.txt": "/HW-17-React-Lifecycle-Hooks/static/js/2.939999e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b40a86b.js",
+    "static/js/2.939999e5.chunk.js",
+    "static/css/main.5f82fae8.chunk.css",
+    "static/js/main.16c42939.chunk.js"
+  ]
+}
